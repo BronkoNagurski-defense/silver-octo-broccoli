@@ -7,6 +7,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 Alternate reality algorithm
 ## Summary and Background
 People have too much confidence in the answers they get from the internet. This is designed to give them an idea of how confusing and inaccurate internet ‘research’ can be. It may drive them to be more critical of their information sources. 
+
 Building AI course project
 
 ## Data and Techniques - how it is used: 
