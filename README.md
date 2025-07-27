@@ -3,10 +3,11 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+## Project Title
 Alternate reality algorithm
 ## Summary and Background
 People have too much confidence in the answers they get from the internet. This is designed to give them an idea of how confusing and inaccurate internet ‘research’ can be. It may drive them to be more critical of their information sources. 
+Building AI course project
 
 ## Data and Techniques - how it is used: 
 Use transformer architecture or RNN’s to interpret questions posed on search algorithms. Evaluate the questions; are they asking for information or a best practice question? for each question, develop a search algorithm (using existing search engines) that looks for contradictory answers to the same questions, giving the user a more realistic idea of the reliability of the web, encouraging the user to do further more critical research.
